@@ -22,8 +22,7 @@ const Navbar = () => {
     <div className="container pt-6 sticky top-0 bg-white z-50">
       <div className="flex justify-between items-center">
         <div className="flex items-center gap-2">
-          <Image src="/logo.png" width={50} height={50} alt="logo" />
-          <span className="font-bold text-black text-xl md:text-2xl lg:text-3xl xl:text-4xl" style={{ lineHeight: '1' }}>Tomato</span>
+          <Image src="/logo1.png" width={250} height={250} alt="logo" />
         </div>
  
         {/* Desktop navigation */}

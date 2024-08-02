@@ -43,7 +43,7 @@ const Footer = () => {
 
         <div className="text-center mt-8">
           <div className="h-px bg-gray-300 mt-6 mb-4"></div> {/* Thin line */}
-          <p className="text-sm text-gray-500">&copy; 2024 Hexerve Solutions. All rights reserved.</p>
+          <p className="text-sm text-gray-500">&copy; 2024 Hexerve Solutions. All rights reserved | Developed by Hexerve Solutions.</p>
         </div>
       </div>
     </div>
